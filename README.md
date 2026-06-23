@@ -41,7 +41,7 @@ This project analyzes real-world e-commerce event data from a multi-category onl
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Dashboard](screenshots/ecommerce_dashboard.png)
+![E-Commerce Dashboard]
 
 ---
 
